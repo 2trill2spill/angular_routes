@@ -1,0 +1,22 @@
+
+body {
+  background-color: LightBlue;
+}
+
+.image {
+  color: white;
+  background-image: url("/img/lupinCashCar.jpg")
+}
+
+a:link {
+    color: black;
+}
+
+p {
+  margin-top: 25px;
+  text-align: center;
+}
+
+img {
+    text-align: center;
+}
